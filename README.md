@@ -10,6 +10,10 @@ Detect video ads and play the video at the maximum speed that HTML5 supports and
 
 ## How Use?
 
+comming soon...
+
+現在開発中
+
 <!-- This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
