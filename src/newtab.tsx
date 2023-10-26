@@ -1,25 +1,26 @@
-import { useState } from "react"
+import {
+  Box,
+  ChakraProvider,
+  FormControl,
+  FormLabel,
+  Switch
+} from "@chakra-ui/react"
+import React from "react"
 
-import "./style.css"
+import App from "~app"
 
-function IndexNewtab() {
-  const [data, setData] = useState("")
-
+function IndexPopup() {
   return (
-    <div
-      className="new-tab"
-      style={{
-        padding: 16,
-        display: "flex",
-        flexDirection: "column"
-      }}>
-      <h1>
-        Welcome to your <a href="https://www.plasmo.com">Plasmo</a> Extension!
-      </h1>
-      <input onChange={(e) => setData(e.target.value)} value={data} />
-      <footer>Crafted by @PlamoHQ</footer>
-    </div>
+    // <Box m={10} p={20}>
+    //   <FormControl display="flex" alignItems="center">
+    //     <FormLabel htmlFor="email-alerts" mb="0">
+    //       Enable email alerts?
+    //     </FormLabel>
+    //     <Switch id="email-alerts" />
+    //   </FormControl>
+    // </Box>
+    <App />
   )
 }
 
-export default IndexNewtab
+export default IndexPopup
