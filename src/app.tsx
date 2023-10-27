@@ -12,11 +12,11 @@ const App = () => {
     <Providers>
       <SkipNavLink>Skip to content</SkipNavLink>
       <Hedder />
-      <Container>
-        <SkipNavContent />
-        <div>App</div>
-        <ConfigPage />
-      </Container>
+      {/* <Container> */}
+      <SkipNavContent />
+      {/* <div>App</div> */}
+      <ConfigPage />
+      {/* </Container> */}
     </Providers>
   )
 }
