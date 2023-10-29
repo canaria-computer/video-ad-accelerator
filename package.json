@@ -3,7 +3,7 @@
   "displayName": "Video ad accelerator",
   "version": "0.0.1",
   "description": "Speed up (accelerate) to bypass video ads.",
-  "author": "Plasmo Corp. <foss@plasmo.com>",
+  "author": "canaria-computer <121685177+canaria-computer@users.noreply.github.com>",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
