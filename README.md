@@ -10,9 +10,36 @@ Detect video ads and play the video at the maximum speed that HTML5 supports and
 
 ## How Use?
 
-comming soon...
+You can use it immediately by installing it.
 
-現在開発中
+## 使い方
+
+UI-less version は 細かな設定機能など一切を省略した拡張機能です。
+インストールすることですぐに使うことができます。
+
+## Download/ダウンロード
+
+### Mozilla Firefox / waterfox / librewolf [ / Tor Browser]
+
+[インストールページへ移動する / Go to the installation page](https://addons.mozilla.org/ja/firefox/addon/video-ad-accelerator-ui-less/)
+
+### Google Chrome / Brave
+
+SCREENING PROCESS
+
+審査中...
+
+### Opera
+
+SCREENING PROCESS
+
+審査中...
+
+### Microsoft Edge
+
+SCREENING PROCESS
+
+審査中...
 
 <!-- This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
