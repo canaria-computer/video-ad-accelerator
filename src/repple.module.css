@@ -1,0 +1,33 @@
+.rippleContainer {
+    position: relative;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    /* background: var(--chakra-colors-green-200); */
+    overflow: hidden;
+}
+
+.ripples div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: solid 5px var(--chakra-colors-green-600);
+    border-radius: 50%;
+    opacity: 0;
+    animation: ripples_anim 1s linear infinite;
+}
+
+@keyframes ripples_anim {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        transform: translate(-200px, -200px);
+        width: 400px;
+        height: 400px;
+        opacity: 0;
+    }
+}
