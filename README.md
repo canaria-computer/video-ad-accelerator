@@ -37,9 +37,7 @@ SCREENING PROCESS
 
 ### Microsoft Edge
 
-SCREENING PROCESS
-
-審査中...
+[インストールページへ移動する / Go to the installation page](https://microsoftedge.microsoft.com/addons/detail/video-ad-accelerator/jjafcecbkdodjcpflaaknelchfjjmpon)
 
 <!-- This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
